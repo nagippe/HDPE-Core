@@ -14,12 +14,20 @@
 - Partial compatibility is not accepted
 - Offline evaluation is forbidden
 
-## If Cheat Detected?
+## In Case of Modification or Fraud Detection
 
-- Send detected infomation to server or database.
-- Depending on the information you provide and the legal regulations of your country, we may report it to international organizations or police agencies.
-- Information collected
-   - IP address
-   - Device name
-   - Manufacturer
-   - Other
+
+- Detection data may be transmitted to a verification server or internal database
+  solely for compatibility and integrity assessment.
+- Depending on the detected information, applicable copyright laws,
+  and jurisdiction, further actions such as reporting to relevant authorities
+  may be considered.
+- These measures exist to ensure compliance with applicable laws
+  (e.g., Copyright Act, Unfair Competition Prevention Act)
+  and to protect legitimate rights holders.
+- Information collected (minimal and limited)
+   - IP address (for regional and integrity checks)
+   - Country (derived information)
+ 
+No personal data beyond what is strictly required for compatibility
+and integrity verification is collected or retained.
